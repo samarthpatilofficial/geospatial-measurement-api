@@ -48,7 +48,7 @@ The sample files and sample-generation script are for local testing.
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/samarthpatilofficial/geospatial-measurement-api>
 cd geospatial-measurement-api
 ```
 
